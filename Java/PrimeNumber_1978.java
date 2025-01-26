@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class PrimeNumber {
+public class PrimeNumber_1978 {
     private static int N;
     private static boolean[] isPrime;
 
