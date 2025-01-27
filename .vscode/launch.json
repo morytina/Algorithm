@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci_1003",
+            "request": "launch",
+            "mainClass": "Fibonacci_1003",
+            "projectName": "Algorithm_336079b6"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld_2557",
             "request": "launch",
             "mainClass": "HelloWorld_2557",
